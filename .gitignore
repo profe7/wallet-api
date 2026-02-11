@@ -1,0 +1,16 @@
+*.exe
+*.dll
+*.so
+*.dylib
+
+*.db
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
+
+STUDY_NOTES.md
